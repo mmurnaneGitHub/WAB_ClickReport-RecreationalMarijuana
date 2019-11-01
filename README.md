@@ -1,7 +1,7 @@
 # WAB_ClickReport-RecreationalMarijuana
 Custom Recreational Marijuana report for Esri's Web AppBuilder. Use with WAB_Override-Default-Map-Click repository. Application: https://wspdsmap.cityoftacoma.org/website/PDS/MJ/
 
-Version 2.13
+Version 2.14
 
 INSTRUCTIONS:
 
